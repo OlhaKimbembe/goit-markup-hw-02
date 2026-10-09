@@ -1,29 +1,31 @@
-# WebStudio — Module 1 Homework
+# WebStudio — Module 2 Homework
 
-A beginner HTML project that recreates the WebStudio landing page from the
-provided Figma design. The page introduces WebStudio’s digital services and
-presents its approach to helping businesses solve problems through research,
-creative solutions, and digital experiences.
+A continuation of the WebStudio landing page created for Module 1. This project
+adds the Portfolio section and styles the page according to the provided Figma
+design.
 
 ## Project Requirements
 
-- Repository name: `goit-markup-hw-01`
-- Main HTML file: `index.html`
-- Project structure includes an `images` folder, `.gitignore`, `.prettierrc`,
-  `index.html`, and `README.md`.
-- Use the text and images from the design.
-- Format the code with Prettier.
+- Repository name: `goit-markup-hw-02`
+- Use the Module 1 project as the starting point.
+- Add the Portfolio section to the page.
+- Organize CSS files in the required `css` folder structure and import them
+  through `main.css`.
+- Match the design’s fonts, colors, and text styles using values from the Figma
+  file.
+- Add hover and focus states to interactive buttons and links, following the
+  Style Guide.
+- Validate the HTML, format the code with Prettier, and publish the site with
+  GitHub Pages.
 
 ## Page Structure
 
-The page is built according to the requirements for the first homework
-assignment and includes these sections:
-
-- **Header** - WebStudio logo, navigation links and contacts.
-- **Hero** - Main headline and call-to-action button.
-- **Features** - Key benefits and qualities of the company.
-- **Team** - Team member profiles with photos, names, and roles.
-- **Footer** - Company logo and field "about".
+- **Header** — WebStudio logo, navigation links, and contact information.
+- **Hero** — Main headline and call-to-action button.
+- **Features** — Key benefits and qualities of the company.
+- **Team** — Team member profiles with photos, names, and roles.
+- **Portfolio** — Project gallery with images, titles, and categories.
+- **Footer** — Company logo and description.
 
 ## Design
 
